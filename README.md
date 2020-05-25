@@ -10,9 +10,11 @@ This assignment holds the purpose of demonstrating how researchers can (easily) 
 
 * Jupyter NoteBook *[Installation documentation](https://jupyter.org/install)
 
-To install the packages required via conda follow these instructions based on this [Documentation](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/). For installing packages rather via pip you can refer to [this](https://packaging.python.org/tutorials/installing-packages/) instead.
+To install the packages required via conda follow these instructions based on this [Documentation](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/). 
+For installing packages rather via pip you can refer to [this](https://packaging.python.org/tutorials/installing-packages/) instead.
 
 For pandas : ```conda install pandas``` 
+
 *(For a specific version install for any package via conda add ```=(version)```)*, for example : ```conda install pandas=1.0.3 ``` 
 
 For scipy :  ```conda install scipy```
