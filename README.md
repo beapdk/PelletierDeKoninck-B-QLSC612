@@ -39,7 +39,7 @@ of this repo.
 
 ### Outputs expected
 
-* Descriptive statistic table of all variables (with the addition of two random seed variables 'partY' and 'partY2'
+* Descriptive statistic table of all variables (with the addition of two random seed variables 'partY' and 'partY2')
 * Multiple regression model (model_partY) results summary output for predicting partY by factors FSIQ, VIQ and PIQ
 * Plots of regression for each factors related to partY
 * Plots of residuals for the three independant variables FSIQ, VIQ and PIQ (factors)
