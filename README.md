@@ -19,9 +19,19 @@ For pandas : ```conda install pandas```
 
 For scipy :  ```conda install scipy```
 
+### Packages needed to run ```myanalysis.ipynb```
+
+* pandas
+* numpy
+* random
+* matplotlib.pyplot
+* statsmodels.formula.api
+* statsmodels.api
+
+
 ### Analysis script
 
-You can follow the ```my_analysis.ipynb```run by jupyter notebook for full analysis rundown. This file can be found in the /script folder.
+You can follow the ```myanalysis.ipynb```run by jupyter notebook for full analysis rundown. This file can be found in the /script folder.
 
 
 
