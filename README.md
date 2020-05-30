@@ -31,8 +31,9 @@ For scipy :  ```conda install scipy```
 
 ### Analysis script and data
 
-You can follow the ```myanalysis.ipynb```run by jupyter notebook for full analysis rundown. This file can be found in the /script folderof this repos. 
-Setting path : For data file, the file ```brainsize.csv``` can be found in the folder /data of this repo. 
+You can follow the ```myanalysis.ipynb```run by jupyter notebook for full analysis rundown. This file can be found in the PelletierDeKoninck-B-QLSC612/script/ folderof this repos. 
+Setting path : For data file, the file ```brainsize.csv``` can be found in the folder PelletierDeKoninck-B-QLSC612/data/
+of this repo. 
 
 
 
