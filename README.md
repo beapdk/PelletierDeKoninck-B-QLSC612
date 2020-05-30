@@ -19,7 +19,7 @@ For pandas : ```conda install pandas```
 
 For scipy :  ```conda install scipy```
 
-### Packages needed to run ```myanalysis.ipynb```
+#### Packages needed to run ```myanalysis.ipynb```
 
 * pandas
 * numpy
@@ -29,9 +29,10 @@ For scipy :  ```conda install scipy```
 * statsmodels.api
 
 
-### Analysis script
+### Analysis script and data
 
-You can follow the ```myanalysis.ipynb```run by jupyter notebook for full analysis rundown. This file can be found in the /script folder.
+You can follow the ```myanalysis.ipynb```run by jupyter notebook for full analysis rundown. This file can be found in the /script folderof this repos. 
+Setting path : For data file, the file ```brainsize.csv``` can be found in the folder /data of this repo. 
 
 
 
