@@ -19,7 +19,9 @@ For pandas : ```conda install pandas```
 
 For scipy :  ```conda install scipy```
 
-#### Packages needed to run ```myanalysis.ipynb```
+#### Packages needed to install```myanalysis.ipynb```
+
+Please refer to ```requirement.txt``` file for package installation needed or follow the list below: 
 
 * pandas
 * numpy
@@ -34,6 +36,14 @@ For scipy :  ```conda install scipy```
 You can follow the ```myanalysis.ipynb```run by jupyter notebook for full analysis rundown. This file can be found in the PelletierDeKoninck-B-QLSC612/script/ folder of this repos. 
 Setting path : For data file, the file ```brainsize.csv``` can be found in the folder PelletierDeKoninck-B-QLSC612/data/
 of this repo. 
+
+### Outputs expected
+
+* Descriptive statistic table of all variables (with the addition of two random seed variables 'partY' and 'partY2'
+* Multiple regression model (model_partY) results summary output for predicting partY by factors FSIQ, VIQ and PIQ
+* Plots of regression for each factors related to partY
+* Plots of residuals for the three independant variables FSIQ, VIQ and PIQ (factors)
+* Multiple regression model (model_partY2) result summary output for predicting partY2 by factors FSIQ, VIQ and PIQ
 
 
 
