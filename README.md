@@ -34,7 +34,7 @@ Please refer to ```requirement.txt``` file for package installation needed or fo
 ### Analysis script and data
 
 You can follow the ```myanalysis.ipynb```run by jupyter notebook for full analysis rundown. This file can be found in the PelletierDeKoninck-B-QLSC612/script/ folder of this repos. 
-Setting path : For data file, the file ```brainsize.csv``` can be found in the folder PelletierDeKoninck-B-QLSC612/data/
+For the data file needed, the file ```brainsize.csv``` can be found in the folder PelletierDeKoninck-B-QLSC612/data/
 of this repo. 
 
 ### Outputs expected
