@@ -2,7 +2,7 @@
 
 ## PelletierDeKoninck-B-QLSC612
 
-This assignment holds the purpose of demonstrating how researchers can (easily) produce false positives or inflated prediction rates via p-hacking.
+This assignment holds the purpose of demonstrating how researchers can (easily) produce false positives or inflated prediction rates via p-hacking. See complete description with ```practical-assignment.md``` file. 
 
 ### Installation requirements
 
