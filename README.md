@@ -25,7 +25,7 @@ Please refer to ```requirement.txt``` file for package installation needed or fo
 
 * pandas
 * numpy
-* random
+* random2
 * matplotlib.pyplot
 * statsmodels.formula.api
 * statsmodels.api
